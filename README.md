@@ -1,9 +1,9 @@
 
-🐾 Sistema Integrado PetCare (SIP)
+<h1 align ="center">🐾 Sistema Integrado PetCare (SIP) </h1>
 
 <p align="center"> Sistema desenvolvido em <b>Java</b> aplicando os pilares da <b>Programação Orientada a Objetos (POO)</b> </p>
 
-🧠 Conceitos de POO Aplicados
+<h2>🧠 Conceitos de POO Aplicados</h2>
 ✅ Herança
 Utilizada na hierarquia de usuários (Usuario → Administrador, Veterinario, etc.)
 ✅ Encapsulamento
