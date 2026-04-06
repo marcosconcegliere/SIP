@@ -44,7 +44,7 @@ public class Principal {
         //AGENDAMENTO
         Agendamento ag = new Agendamento(1, "10:00", "CONSULTA", animal, vet1, notificador);
         
-        ag.agendar();
+        ag.agendar(); // notificador aqui
         
         ag.exibir();
 
