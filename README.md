@@ -1,6 +1,7 @@
+
 🐾 Sistema Integrado PetCare (SIP)
 
-Sistema desenvolvido em Java com foco em Programação Orientada a Objetos (POO) para gerenciamento completo de uma clínica veterinária.
+<p align="center"> <img src="docs/uml.png" alt="Diagrama UML do Sistema PetCare" width="700"/> </p> <p align="center"> Sistema desenvolvido em <b>Java</b> aplicando os pilares da <b>Programação Orientada a Objetos (POO)</b> </p>
 
 🧠 Conceitos de POO Aplicados
 ✅ Herança
