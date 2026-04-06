@@ -18,3 +18,5 @@
     <p>✅ <b>Delegação:</b> Exemplo: Agendamento delega notificações para Notificador</p>
   </li>
 </ul>
+<h2 align ="left">Exemplo de Saída</h2>
+<p align="center"> <img src="img/Saida_main.png" alt="Exemplo de saída" width="700"/>
